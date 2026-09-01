@@ -1,0 +1,8 @@
+<Solution>
+  <Project Path="Cert4Update.Console/Cert4Update.Console.csproj" Id="62289066-f5a2-4875-a254-435bb5096c72" />
+  <Project Path="Cert4Update.Core/Cert4Update.Core.csproj" />
+  <Project Path="CoreTest/CoreTest.csproj" Id="0bc5ded5-a7d5-4301-a423-aa6bbc4c026a" />
+  <Project Path="Setup/Setup.vdproj" Type="Installer">
+    <Build />
+  </Project>
+</Solution>
